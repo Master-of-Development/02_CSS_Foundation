@@ -7,6 +7,9 @@
 - 글자 크기는 70px이어야 한다.
 - (모를시 구글검색)
 
+
+![과제](https://user-images.githubusercontent.com/71883310/180114997-0eceacbd-6e70-4790-b10f-21449e445770.png)
+
 ### 제출방법
 - 폴더 이름은 (과제2-홍길동) index.html, css폴더 
 - css폴더에는 common.css파일 있어야한다.
