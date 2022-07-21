@@ -1,5 +1,4 @@
-# foundation_sub(css 기본 과제)
-
+# 모드 동아리 두번째 과제
 - html, css로만 재작한다.
 - css폴더와 파일을 따로만들어 html에 연결해야한다.
 - 각 박스 간의 간격은 margin값은 20px 밀어야 한다.
